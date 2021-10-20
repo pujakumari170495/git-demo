@@ -1,3 +1,2 @@
 This is file A.
-Adding another line.
 Adding third line.
